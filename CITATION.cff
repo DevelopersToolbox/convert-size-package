@@ -3,8 +3,8 @@ message: If you use this software, please cite it using these metadata.
 title: Convert Sizes
 abstract: Convert between various sizes.
 type: software
-version: 0.1.0
-date-released: 2024-05-23
+version: 0.1.1
+date-released: 2024-06-25
 repository-code: https://github.com/DevelopersToolbox/convert-size
 keywords:
   - "Wolf Software"
