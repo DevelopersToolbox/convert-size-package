@@ -12,10 +12,10 @@ with open("README.md", 'r', encoding='UTF-8') as f:
 
 setup(
     name='wolfsoftware.convert-size',
-    version='0.1.1',
+    version='0.1.2',
     author='Wolf Software',
     author_email='pypi@wolfsoftware.com',
-    description='Convert between various sizes',
+    description='Convert between various sizes.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='MIT',

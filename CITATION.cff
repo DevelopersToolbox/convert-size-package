@@ -3,7 +3,7 @@ message: If you use this software, please cite it using these metadata.
 title: Convert Sizes
 abstract: Convert between various sizes.
 type: software
-version: 0.1.1
+version: 0.1.2
 date-released: 2024-06-25
 repository-code: https://github.com/DevelopersToolbox/convert-size
 keywords:
